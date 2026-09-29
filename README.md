@@ -9,7 +9,9 @@ Built at the CodeRabbit hackathon.
 
 ## How it works
 
-<!-- 🎬 YouTube demo goes here -->
+[![Watch the Beethoven demo](https://img.youtube.com/vi/CbJZIyKqG6U/maxresdefault.jpg)](https://youtu.be/CbJZIyKqG6U)
+
+▶️ *Click to watch on YouTube.*
 
 1. **Gemini looks at each painting.** It reads the mood, the sounds it suggests and its cultural roots. *The Great Wave* comes back as Edo-period Japanese music (koto, taiko, shakuhachi). A Rajasthani miniature with peacocks comes back as Hindustani classical, with sitar, bansuri and a matching raga.
 2. **You compose by placing paintings on the score.** Left to right is *when* a painting plays, height is *how high* it sounds, and size is *how strongly* its mood leads.
